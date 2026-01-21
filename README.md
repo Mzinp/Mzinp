@@ -6,7 +6,18 @@
 
 ---
 
+## Profile
 
+<div align="center">
+
+I am a software developer focused on **backend**, interested in solving real-world problems through **clean code, best practices, and scalable solutions**.
+
+</div>
+
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -21,36 +32,40 @@
 
 ---
 
-
+## 📊 GitHub Analytics
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mzinp&show_icons=true&theme=github_dark&title_color=1E90FF&icon_color=1E90FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzinp&layout=compact&theme=github_dark&title_color=1E90FF)
-
-</div>
-
----
-
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mzinp&theme=github-dark-blue)
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mzinp&show_icons=true&theme=github_dark&title_color=1E90FF&icon_color=1E90FF" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzinp&layout=compact&theme=github_dark&title_color=1E90FF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
+
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mzinp&theme=github-dark" />
+
+
+
+
 ---
 
+## 📫 Contact
 
+<div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=1E90FF)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=1E90FF)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-costa-amalio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateushenrique47677@gmail.com)
 
 </div>
 
----
 
 
