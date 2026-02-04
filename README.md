@@ -34,15 +34,6 @@
 
 ---
 
-## 📊 Programming Languages
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mzinp/Mzinp/main/assets/languages.svg" alt="Languages" />
-</p>
-
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -50,6 +41,10 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=Mzinp&theme=github-dark"
   />
 </p>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/Mzinp/Mzinp/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
