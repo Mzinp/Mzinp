@@ -1,71 +1,65 @@
-<div align="center">
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E90FF&height=160&section=header&text=Mateus%20Henrique&fontSize=38&fontColor=ffffff&animation=fadeIn"
+  />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=26&center=true&vCenter=true&width=750&lines=Software+Developer;Node.js+%7C+TypeScript+%7C+React;Building+real+and+scalable+projects)
-
-</div>
+<p align="center">
+  <b>Software Developer • Backend Focused</b><br/>
+  Node.js • TypeScript • React<br/>
+  Building real and scalable projects
+</p>
 
 ---
 
-## Profile
+## 👤 Profile
 
-<div align="center">
-
-I am a software developer focused on **backend**, interested in solving real-world problems through **clean code, best practices, and scalable solutions**.
-
-</div>
-
+<p align="center">
+  I am a software developer focused on <b>backend development</b>, passionate about solving real-world problems through
+  <b>clean code</b>, <b>best practices</b>, and <b>scalable architectures</b>.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=node.js&logoColor=1E90FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=1E90FF)
-![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=1E90FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=1E90FF)
-![MySQL](https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=1E90FF)
-![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=1E90FF)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=node.js&logoColor=1E90FF"/>
+  <img src="https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=1E90FF"/>
+  <img src="https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=1E90FF"/>
+  <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=1E90FF"/>
+  <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=1E90FF"/>
+  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=1E90FF"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mzinp&show_icons=true&theme=github_dark&title_color=1E90FF&icon_color=1E90FF" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzinp&layout=compact&theme=github_dark&title_color=1E90FF" />
-      </td>
-    </tr>
-  </table>
-</div>
+## 📊 Programming Languages
+
+<p align="center">
+  <img src="./assets/languages.svg" alt="Languages stats" />
+</p>
 
 
-
+---
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mzinp&theme=github-dark" />
-
-
-
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mzinp&theme=github-dark"
+  />
+</p>
 
 ---
 
 ## 📫 Contact
 
-<div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-costa-amalio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateushenrique47677@gmail.com)
-
-</div>
-
-
-
+<p>
+  <a href="https://www.linkedin.com/in/mateus-henrique-costa-amalio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mateushenrique47677@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
