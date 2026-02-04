@@ -31,7 +31,6 @@ jobs:
           config_display: large
           config_padding: 16
           config_animations: yes
-          config_theme: auto
           
           
 
