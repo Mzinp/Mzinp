@@ -9,6 +9,9 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -16,6 +19,10 @@ jobs:
 
           
           filename: assets/languages.svg
+
+         
+          repositories_affiliations: owner
+          repositories_forks: no
 
           
           base: ""
@@ -27,10 +34,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, css
 
-          
+         
           config_display: large
           config_padding: 16
           config_animations: yes
-          
-          
+
 
