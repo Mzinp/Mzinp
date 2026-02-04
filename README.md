@@ -37,7 +37,7 @@
 ## 📊 Programming Languages
 
 <p align="center">
-  <img src="./assets/languages.svg" alt="Languages stats" />
+  <img src="https://raw.githubusercontent.com/Mzinp/Mzinp/main/assets/languages.svg" alt="Languages" />
 </p>
 
 
