@@ -8,7 +8,6 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -18,13 +17,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           
-          filename: assets/languages.svg
-
-         
+          user: Mzinp
           repositories_affiliations: owner
           repositories_forks: no
 
-          
+          filename: assets/languages.svg
+
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
@@ -34,9 +32,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, css
 
-         
+          
+          markdown_cache: no
+
           config_display: large
           config_padding: 16
           config_animations: yes
-
-
